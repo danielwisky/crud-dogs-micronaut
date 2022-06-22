@@ -11,6 +11,7 @@
 - [API Reference](https://docs.micronaut.io/3.5.2/api/index.html)
 - [Configuration Reference](https://docs.micronaut.io/3.5.2/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
+
 ---
 
 ## Feature http-client documentation
